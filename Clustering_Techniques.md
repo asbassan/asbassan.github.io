@@ -2,8 +2,8 @@
 - Play balancing act between compression and accuracy
 
 ## Table Of Contents
-1. [KMeans Clustering](#KMeansClustering)
-2. [Agglomerative Clustering](#AgglomerativeClustering)
+1. [KMeans Clustering](#kmeansclustering)
+2. [Agglomerative Clustering](#agglomerativeclustering)
 <br>
 <br>
 <br>
