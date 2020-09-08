@@ -4,7 +4,7 @@
 ## Table Of Contents
 1. [Pros](#pros)
 2. [Cons](#cons)
-3. [Libraries Used](#librariesused)
+3. [Libraries Used](#libraries-used)
 4. [Method](#method)
 <br>
 <br>
@@ -47,7 +47,7 @@
     
 
 
-2. Method:
+### Method:
 
     a. Split the data:
         
@@ -101,4 +101,15 @@
 
             return ("PolynomialRegression", polyregmodel, polyregmodel.best_params_, r2_score(y_test, y_predict), mean_squared_error(y_test, y_predict) )
 
+        ```
+
+    c. Call using an example method below:
+        ```python
+        #calling the regression function 
+    
+        regresultup = polyreg(x_train_model, x_test_model , y_train, y_test)
+        print("regression r2: ", regresultup[3])
+        print("regression mean_squared_error: ", regresultup[4])
+        print("regression model: ", regresultup[1])
+        print("regression model parameters:", regresultup[2])
         ```
