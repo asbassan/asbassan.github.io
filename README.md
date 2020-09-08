@@ -1,3 +1,4 @@
 ## Table Of Contents
-1. [Clustering Techniques](Clustering_Techniques.md)
-2. [Principal Component Analysis](PCA.md)
+1. [Linear Regression Techniques](Linear_Regression.md)
+2. [Clustering Techniques](Clustering_Techniques.md)
+3. [Principal Component Analysis](PCA.md)
