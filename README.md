@@ -1,2 +1,2 @@
 ## Table Of Contents
-1. [SQL Queries](SQLQueries.md)
+1. [SQL](SQLQueries.md)
