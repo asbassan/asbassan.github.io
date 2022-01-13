@@ -22,7 +22,7 @@
     inner join sys.partitions p on p.object_id = o.object_id
     inner join sys.tables t on t.object_id = o.object_id
 ```
-## File and Page numbers for tables
+## File and Page info for tables
 [Good Refresher on Pages types](http://www.sqlnotes.info/2011/10/31/page-type/)
 ```sql
  	Select allocated_page_file_id as PageFID, allocated_page_page_id as PagePID,
