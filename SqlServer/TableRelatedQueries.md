@@ -28,7 +28,7 @@
  	Select allocated_page_file_id as PageFID, allocated_page_page_id as PagePID,
 	object_id as ObjectID, partition_id as PartitionID,
 	allocation_unit_type_desc as AU_type, page_type as PageType,
-	extent_file_id, extent_page_id, is_mixed_page_allocation
+	extent_file_id, extent_page_id, is_mixed_page_allocation, page_level as IndexLevel
 	from sys.dm_db_database_page_allocations(db_id('dp300'),object_id('SalesLT.SalesOrderHeaderCopy') , null, null, 'DETAILED')
     Where page_type = 1; --Data page
     -- where page_type = 2; --Index page
