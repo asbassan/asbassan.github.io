@@ -1,2 +1,2 @@
 ## Table Of Contents
-1. [Get Number of Rows for all the tables](SqlServer/TableRelatedQueries/#Get-Number-of-Rows-for-all-the-tables)
+1. [Get Number of Rows for all the tables](/SqlServer/TableRelatedQueries.md/#Get-Number-of-Rows-for-all-the-tables)
