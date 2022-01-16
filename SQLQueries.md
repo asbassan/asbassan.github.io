@@ -17,3 +17,10 @@
 ### Performance
 1. [Wait stats](SqlServer/Performance.md/#Wait-stats)
 
+### Memory
+1. [Dirty Pages](SqlServer/MemoryInvestigation.md/#Get-Dirty-Pages-in-Memory)
+
+
+### TSql
+1. [Create Database scripts](SqlServer/Tsql.md/#Create-Database-scripts)
+2. [Create Table](SqlServer/Tsql.md/#Create-Table)
