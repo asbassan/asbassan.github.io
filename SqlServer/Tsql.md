@@ -43,8 +43,20 @@
 ## Mathematical Functions
 [Reference](https://docs.microsoft.com/en-us/sql/t-sql/functions/mathematical-functions-transact-sql?view=sql-server-ver15)
 
+## Identify the Datatype and properties of variable
+[Reference](https://blog.sqlauthority.com/2013/12/15/sql-server-how-to-identify-datatypes-and-properties-of-variable/)
 
+## SQL Datatype precedence
+[Reference](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-type-precedence-transact-sql?view=sql-server-ver15)
 
+## SQL Currency formatting
+[Reference](https://www.mssqltips.com/sqlservertip/7023/sql-format-currency-options/)
+
+## SQL Date and Time Examples
+[Reference](https://www.mssqltips.com/sqlservertip/5993/sql-server-date-and-time-functions-with-examples/)
+
+## SQL Date and Time comparisons
+[Reference](https://docs.microsoft.com/en-us/sql/t-sql/functions/date-and-time-data-types-and-functions-transact-sql?view=sql-server-ver15)
 
 
 
